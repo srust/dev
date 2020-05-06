@@ -1,2 +1,8 @@
 - name: srust
   link: /
+
+- name: details
+  link: /details
+
+- name: knowledgebase
+  link: /kb

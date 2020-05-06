@@ -25,12 +25,22 @@ about_profile_image: images/srust.png
 about_content: | # this will include new lines to allow paragraphs
   I’m a developer and problem solver with 20 years of experience shipping production software, specializing in storage I/O technologies, distributed applications, systems programming, operating systems and virtualization.
 
+# Projects Section
+projects_title: Skills
+
+# More Section
+more_title: Interests / Accomplishments
+more_content: | # this will include new lines to allow paragraphs
+  I am an active contributor to open source software including Docker, Linux, md, Gnome. I am a Docker mentor, previously {code} catalyst, attend meetups and technical conferences.
+
+  I have been granted patents US7448044, US8549582, US9195500
+
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: srust.dev
 author:
-  name:
-  email:
+  name: Stephen Rust
+  email: srust.dev@srust.org
   twitter: # twitter username without the @ symbol
 social:
   name: Base Template
@@ -70,6 +80,16 @@ jekyll-archives:
 defaults:
   -
     scope:
+      path: "index.html"
+    values:
+      layout: "main"
+  -
+    scope:
+      path: "kb"
+    values:
+      body_class: "show_hero_search"
+  -
+    scope:
       path: ""
     values:
       layout: "default"
@@ -83,21 +103,6 @@ defaults:
       type: "sets"
     values:
       _hide_content: true
-  -
-    scope:
-      path: "index.html"
-    values:
-      layout: "main"
-  -
-    scope:
-      path: "details.html"
-    values:
-      layout: "main"
-  -
-    scope:
-      path: "kb.html"
-    values:
-      body_class: "show_hero_search"
 
 # -----------
 # CloudCannon
