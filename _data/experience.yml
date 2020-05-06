@@ -8,12 +8,13 @@
   description: | # this will include new lines to allow paragraphs
     Employee #4 at storage startup involved in all aspects of product and design.
 
-    * I am the technical lead for Distributed persistent tasks, Volume Manager, Installer, Platforms, Cloud Integration, Bare Metal Imager, Host Integration, Monitoring, DevOps build and testing.
+    * I am the technical lead for the Distributed persistent tasks subsystem, Volume Manager, Installer, Platforms, Cloud Integration, Bare Metal Imager, Host Integration, Monitoring, DevOps build and testing.
 
     * Developed and Evangelized Docker and Kubernetes volumes effort.
 
 - layout: left
   company: F5 Networks, Inc.
+  link: https://f5.com
   location: Lowell, MA
   job_title: Principal Software Engineer
   dates: September 2007 - August 2010
