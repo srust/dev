@@ -7,6 +7,10 @@
   social_icon: Twitter
   new_window: true
 - name:
+  link: https://linkedin.com/in/srust-dev
+  social_icon: LinkedIn
+  new_window: true
+- name:
   link: https://github.com/srust
   social_icon: Github
   new_window: true
