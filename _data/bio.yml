@@ -1,0 +1,9 @@
+title: Bio - srust
+content: | # this will include new lines to allow paragraphs
+  Stephen Rust is a Principal Architect at Akamai, where he leads Cloud Native architecture within the Akamai / Linode Cloud. Stephen has over 20 years of experience in operating systems, storage, and working in open source with containers, Kubernetes, and Cloud Native. At Akamai, Stephen is helping build Managed Kubernetes services, Kubernetes Platforms, and Managed services built with Cloud Native technologies.
+
+  Stephen has contributed to the Docker project, developed CSI drivers, the Linode Crossplane provider, and coordinates open source activities for Akamai's Cloud Native initiatives. His interests around runtime start from an operating systems perspective with immutable operating systems, container runtimes, and application deployments with WASM, unikernels, and others.
+
+  (LinkedIn][https://linkedin.com/in/srust-dev]
+  (Twitter)[https://twitter.com/srust]
+  (GitHub)[https://github.com/srust]

@@ -4,8 +4,8 @@ repository: srust/dev
 
 # Personal info
 name: Stephen Rust
-title: Senior Member of Technical Staff
-email: srust.dev@srust.org
+title: Principal Architect
+email: srust@srust.dev
 
 # Social links
 twitter_username: srust
@@ -32,8 +32,8 @@ logo: /siteicon.png
 description: srust.dev
 author:
   name: Stephen Rust
-  email: srust.dev@srust.org
-  twitter: # twitter username without the @ symbol
+  email: srust@srust.dev
+  twitter: srust
 social:
   name: Base Template
   links:
